@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "cat-1790699793970-07r7l",
+    "restaurantId": "client-p3-sb-275808",
+    "branchId": "brn-1790699790584-5183x",
+    "name": "Gourmet Starters & Tapas",
+    "description": "Delicious starters to begin your meal",
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:36:33.970Z",
+    "updatedAt": "2026-09-29T16:36:35.267Z"
+  },
+  {
+    "id": "cat-1790699794916-1hgxg",
+    "restaurantId": "client-p3-sb-275808",
+    "branchId": "brn-1790699790584-5183x",
+    "name": "Main Course",
+    "description": "Hearty main curries and breads",
+    "displayOrder": 2,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:36:34.916Z",
+    "updatedAt": "2026-09-29T16:36:34.916Z"
+  },
+  {
+    "id": "cat-1790699796438-plsz8",
+    "restaurantId": "client-p3-bi-275808",
+    "branchId": "brn-1790699792981-rb7p1",
+    "name": "Pasta & Risotto",
+    "description": null,
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:36:36.438Z",
+    "updatedAt": "2026-09-29T16:36:36.438Z"
+  },
+  {
+    "id": "cat-p4-a-1790699828554",
+    "restaurantId": "rest-p4-a-1790699819141",
+    "branchId": "br-p4-a-1790699819141",
+    "name": "Main Courses A",
+    "description": null,
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:37:08.856Z",
+    "updatedAt": "2026-09-29T16:37:08.856Z"
+  },
+  {
+    "id": "cat-p4-b-1790699828857",
+    "restaurantId": "rest-p4-b-1790699819141",
+    "branchId": "br-p4-b-1790699819141",
+    "name": "Main Courses B",
+    "description": null,
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:37:09.160Z",
+    "updatedAt": "2026-09-29T16:37:09.160Z"
+  },
+  {
+    "id": "cat-p5-a-1790699849849",
+    "restaurantId": "rest-p5-a-1790699849849",
+    "branchId": null,
+    "name": "Mains",
+    "description": null,
+    "displayOrder": 0,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:37:39.278Z",
+    "updatedAt": "2026-09-29T16:37:39.278Z"
+  },
+  {
+    "id": "cat-p6-a-1790700102308",
+    "restaurantId": "client-p6-a-1790700102308",
+    "branchId": null,
+    "name": "Curries",
+    "description": null,
+    "displayOrder": 0,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:42:02.449Z",
+    "updatedAt": "2026-09-29T16:42:02.449Z"
+  },
+  {
+    "id": "cat-p6-b-1790700102308",
+    "restaurantId": "client-p6-b-1790700102308",
+    "branchId": null,
+    "name": "Pizzas",
+    "description": null,
+    "displayOrder": 0,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:42:02.451Z",
+    "updatedAt": "2026-09-29T16:42:02.451Z"
+  },
+  {
+    "id": "cat-p6-a-1790700637103",
+    "restaurantId": "client-p6-a-1790700637103",
+    "branchId": null,
+    "name": "Curries",
+    "description": null,
+    "displayOrder": 0,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:51:04.413Z",
+    "updatedAt": "2026-09-29T16:51:04.413Z"
+  },
+  {
+    "id": "cat-p6-b-1790700637103",
+    "restaurantId": "client-p6-b-1790700637103",
+    "branchId": null,
+    "name": "Pizzas",
+    "description": null,
+    "displayOrder": 0,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:51:04.415Z",
+    "updatedAt": "2026-09-29T16:51:04.415Z"
+  },
+  {
+    "id": "demo-cat-starters",
+    "restaurantId": "demo-restaurant-1",
+    "branchId": null,
+    "name": "Starters & Appetizers",
+    "description": null,
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:59:02.751Z",
+    "updatedAt": "2026-09-29T16:59:02.751Z"
+  },
+  {
+    "id": "demo-cat-mains",
+    "restaurantId": "demo-restaurant-1",
+    "branchId": null,
+    "name": "Main Courses",
+    "description": null,
+    "displayOrder": 2,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:59:03.091Z",
+    "updatedAt": "2026-09-29T16:59:03.091Z"
+  },
+  {
+    "id": "demo-cat-beverages",
+    "restaurantId": "demo-restaurant-1",
+    "branchId": null,
+    "name": "Beverages & Desserts",
+    "description": null,
+    "displayOrder": 3,
+    "isActive": true,
+    "createdAt": "2026-09-29T16:59:03.368Z",
+    "updatedAt": "2026-09-29T16:59:03.368Z"
+  }
+]

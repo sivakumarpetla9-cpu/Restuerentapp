@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "cart-1790699836038-r4rdl",
+    "restaurantId": "rest-p4-a-1790699819141",
+    "tableSessionId": "sess-1790699831252-fih7z",
+    "menuItemId": "mi-p4-a2-1790699819141",
+    "quantity": 2,
+    "customizations": [],
+    "notes": null,
+    "createdAt": "2026-09-29T16:37:16.038Z",
+    "updatedAt": "2026-09-29T16:37:16.038Z"
+  }
+]
