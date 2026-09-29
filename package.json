@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "build": "npm install && npm --prefix frontend install && npm --prefix frontend run build",
     "test": "node test/test_suite.js",
     "start:api": "node server.js",
     "dashboard": "node server.js",
