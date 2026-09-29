@@ -1,0 +1,23 @@
+{
+  "name": "ai-business-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "test": "node test/test_suite.js",
+    "start:api": "node server.js",
+    "dashboard": "node server.js",
+    "db:init": "node scripts/init-db.js",
+    "db:migrate": "node scripts/migrate-json-to-postgres.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "pg": "^8.23.0"
+  }
+}

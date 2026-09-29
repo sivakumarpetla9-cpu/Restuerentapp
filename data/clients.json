@@ -1,0 +1,36 @@
+[
+  {
+    "id": "demo-restaurant-1",
+    "name": "Demo Restaurant",
+    "companyName": "Demo Hospitality Pvt Ltd",
+    "company": "Demo Hospitality Pvt Ltd",
+    "email": "demo@restaurant.test",
+    "phone": "+91-9876543210",
+    "status": "ACTIVE",
+    "billing": {
+      "currency": "INR",
+      "taxRate": 5,
+      "gstNumber": "07AAAAA0000A1Z5"
+    },
+    "deliveryProfile": {
+      "operatingHours": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "branding": {
+        "primaryColor": "#0284c7",
+        "tagline": "Authentic Culinary Excellence"
+      },
+      "settings": {
+        "billing": {
+          "billingEnabled": false,
+          "serviceChargeRate": 5,
+          "defaultTaxRate": 5,
+          "currency": "INR"
+        }
+      }
+    },
+    "createdAt": "2026-09-29T08:57:11.757Z",
+    "updatedAt": "2026-09-29T08:57:11.757Z"
+  }
+]

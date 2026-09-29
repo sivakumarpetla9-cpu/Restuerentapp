@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tmpl-initial-outreach-email",
+    "name": "Initial Outreach (Email)",
+    "channel": "EMAIL",
+    "purpose": "INITIAL_OUTREACH",
+    "subject": "Connecting regarding {{company}}'s operations",
+    "body": "Hi {{contact_name}},\n\nI noticed {{company}}'s presence in {{industry}} and wanted to reach out. We specialize in helping businesses solve challenges with {{potential_need}}.\n\nWould you be open to a brief 10-minute introductory conversation this week to see if this could be valuable for {{company}}?\n\nBest regards,\nBusiness Development Team"
+  },
+  {
+    "id": "tmpl-initial-outreach-whatsapp",
+    "name": "Initial Outreach (WhatsApp)",
+    "channel": "WHATSAPP",
+    "purpose": "INITIAL_OUTREACH",
+    "subject": null,
+    "body": "Hi {{contact_name}}, hope you're having a good week! I came across {{company}} and wanted to check if you might be interested in solutions for {{potential_need}}. Would love to share a quick 2-minute overview if you're open to it."
+  },
+  {
+    "id": "tmpl-follow-up-email",
+    "name": "Follow-up (Email)",
+    "channel": "EMAIL",
+    "purpose": "FOLLOW_UP",
+    "subject": "Following up: {{company}} & {{potential_need}}",
+    "body": "Hi {{contact_name}},\n\nFollowing up on my previous note regarding {{potential_need}} for {{company}}. I know schedules get busy, so I wanted to see if this is currently on your radar.\n\nIf so, I'd be glad to share how similar teams address this.\n\nBest regards,\nBusiness Development Team"
+  },
+  {
+    "id": "tmpl-demo-invitation-email",
+    "name": "Demo Invitation (Email)",
+    "channel": "EMAIL",
+    "purpose": "DEMO_INVITATION",
+    "subject": "Walkthrough tailored for {{company}}",
+    "body": "Hi {{contact_name}},\n\nFollowing our conversation regarding {{potential_need}}, I would love to walk you through a brief 15-minute demonstration of how this works in practice for {{company}}.\n\nDo you have any availability this Wednesday or Thursday?\n\nBest regards,\nCommercial Solutions Team"
+  },
+  {
+    "id": "tmpl-proposal-followup-email",
+    "name": "Proposal Follow-up (Email)",
+    "channel": "EMAIL",
+    "purpose": "PROPOSAL_FOLLOW_UP",
+    "subject": "Checking in on proposal for {{company}}",
+    "body": "Hi {{contact_name}},\n\nI wanted to follow up on the proposal we shared for {{company}}. Have you or your team had a chance to review the details?\n\nPlease let me know if any questions came up or if any adjustments are needed.\n\nBest regards,\nCommercial Solutions Team"
+  },
+  {
+    "id": "tmpl-client-welcome-email",
+    "name": "Client Welcome (Email)",
+    "channel": "EMAIL",
+    "purpose": "CLIENT_WELCOME",
+    "subject": "Welcome to our partnership, {{company}}!",
+    "body": "Dear {{contact_name}},\n\nWelcome aboard! We are excited to collaborate with {{company}} on {{service}}.\n\nWe are currently preparing your project environment ({{project_name}}) and will share the kickoff agenda and requirements checklist shortly.\n\nBest regards,\nClient Success Team"
+  },
+  {
+    "id": "tmpl-requirement-request-email",
+    "name": "Requirements Request (Email)",
+    "channel": "EMAIL",
+    "purpose": "REQUIREMENT_REQUEST",
+    "subject": "Pending items for {{project_name}}",
+    "body": "Hi {{contact_name}},\n\nTo keep {{project_name}} moving smoothly, we need confirmation on the following items:\n{{pending_requirements}}\n\nPlease let us know once these can be shared or if you would like a quick sync to review them together.\n\nBest regards,\nProject Delivery Team"
+  },
+  {
+    "id": "tmpl-project-update-email",
+    "name": "Project Status Update (Email)",
+    "channel": "EMAIL",
+    "purpose": "PROJECT_UPDATE",
+    "subject": "Update: {{project_name}} ({{project_status}})",
+    "body": "Hi {{contact_name}},\n\nHere is a quick status update on {{project_name}}:\n- Status: {{project_status}}\n- Progress: {{progress_percentage}}%\n- Active Milestone: {{current_milestone}}\n\nNext action: {{next_action}}\n\nPlease feel free to reach out if you have any questions or feedback.\n\nBest regards,\nProject Delivery Team"
+  },
+  {
+    "id": "tmpl-milestone-update-email",
+    "name": "Milestone Completed (Email)",
+    "channel": "EMAIL",
+    "purpose": "MILESTONE_UPDATE",
+    "subject": "Milestone Completed: {{milestone_name}} ({{project_name}})",
+    "body": "Hi {{contact_name}},\n\nWe are pleased to inform you that we have completed milestone \"{{milestone_name}}\" for {{project_name}}.\n\nWe are now advancing into the next delivery phase.\n\nBest regards,\nProject Delivery Team"
+  },
+  {
+    "id": "tmpl-client-review-email",
+    "name": "Client Review Request (Email)",
+    "channel": "EMAIL",
+    "purpose": "CLIENT_REVIEW",
+    "subject": "Review ready: {{project_name}}",
+    "body": "Hi {{contact_name}},\n\n{{project_name}} has reached the review stage and is ready for your evaluation.\n\nPlease test the deliverables when convenient and share any comments or required revisions.\n\nBest regards,\nProject Delivery Team"
+  },
+  {
+    "id": "tmpl-project-completed-email",
+    "name": "Project Completion (Email)",
+    "channel": "EMAIL",
+    "purpose": "PROJECT_COMPLETED",
+    "subject": "Project Completed: {{project_name}}",
+    "body": "Dear {{contact_name}},\n\nWe are delighted to share that {{project_name}} has been completed.\n\nThank you for your partnership throughout the delivery. Please let us know if there is anything else you need.\n\nBest regards,\nClient Success Team"
+  },
+  {
+    "id": "tmpl-general-whatsapp",
+    "name": "General Update (WhatsApp)",
+    "channel": "WHATSAPP",
+    "purpose": "GENERAL",
+    "subject": null,
+    "body": "Hi {{contact_name}}, quick note regarding {{company}}: {{custom_message}}. Let me know if you have any questions!"
+  }
+]
