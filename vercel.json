@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://ai-business-agent.onrender.com/api/$1"
+      "destination": "https://restuerentapp.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",
